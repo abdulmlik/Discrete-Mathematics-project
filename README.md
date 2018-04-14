@@ -1,5 +1,5 @@
 
-# Discrete-Mathematics-project
+# Discrete-Mathematics-project (CS200)
 
 This project is about modeling Discrete Mathematics basics concepts in C++
 
